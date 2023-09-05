@@ -1,3 +1,5 @@
+{.push hint[XDeclaredButNotUsed]: off.}
+
 import winim
 
 type D3DVSHADERCAPS2_0* = object
