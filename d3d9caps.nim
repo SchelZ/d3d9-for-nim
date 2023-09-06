@@ -1,6 +1,6 @@
 {.push hint[XDeclaredButNotUsed]: off.}
 
-import winim
+import winim/com
 
 type D3DVSHADERCAPS2_0* = object
     Caps: DWORD
